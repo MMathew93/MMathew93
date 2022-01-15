@@ -22,7 +22,7 @@ const mathewMckinney = {
   frontEnd: ["Vue", "React", "Ruby on Rails"],
   backEnd: [NodeJS, Express, MongoDB, FireBase, MySQL, Spring],
   currentFocus: "Advancing my career and becoming a better developer!",
-  lookingToLearn: ["AWS", Python, Django, Sinatra, Flask],
+  lookingToLearn: [AWS, Python, Django, Sinatra, Flask],
   interestingFact: "The first programmer in the world was a woman, Her name was Ada Lovelace!"
 };
 ```
